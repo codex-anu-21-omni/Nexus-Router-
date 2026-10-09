@@ -1,0 +1,6 @@
+{
+  "name": "Free MCP AI Router & Gateway",
+  "description": "Production-ready OpenAI-compatible AI Router with multi-provider fallback and Model Context Protocol (MCP) tool bridge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
